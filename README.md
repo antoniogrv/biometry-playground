@@ -7,8 +7,7 @@
 - 05/09
 
 ### Appunti
-- [Immagini, Gestalt](https://github.com/antoniogrv/biometry-playground/blob/master/theory/1%2C%202%20-%20Immagini%2C%20Gestalt.md)
-- [Image Filtering](https://github.com/antoniogrv/biometry-playground/blob/master/theory/4%20-%20Image%20Filtering.md)
+- [Gestalt, Immagini, Filtering](https://github.com/antoniogrv/biometry-playground/blob/master/theory/1%2C%202%20%2C%204%20-%20Immagini%2C%20Gestalt%2C%20Filtering.md)
 - [Fourier & CBIR](https://github.com/antoniogrv/biometry-playground/blob/master/theory/5%2C%206%20-%20Fourier%2C%20CBIR.md)
 - [Occhio, Colori, Iride](https://github.com/antoniogrv/biometry-playground/blob/master/theory/8%2C%2011%20-%20Occhio%2C%20Colori%2C%20Iride.md)
 - [Sistemi Biometrici](https://github.com/antoniogrv/biometry-playground/blob/master/theory/3%2C%207%2C%2012%20-%20Sistemi%20Biometrici.md)
